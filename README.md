@@ -1,5 +1,9 @@
 # GPLX Data Extraction
 
+> **⚠️ DATA ACCURACY WARNING**
+> 
+> The data exported by this tool may not be 100% accurate. The extraction process is automated and may contain errors, inaccuracies, or incomplete information. Please verify all extracted data before using it for critical purposes, especially for educational or examination preparation.
+
 A Python script to extract Vietnamese driving license exam questions and answers from PDF documents and convert them into structured JSON format.
 
 ## Overview
