@@ -1,6 +1,6 @@
 # GPLX Data Extraction
 
-A Python script to extract driving license exam questions and answers from PDF documents and convert them into structured JSON format.
+A Python script to extract Vietnamese driving license exam questions and answers from PDF documents and convert them into structured JSON format.
 
 ## Overview
 
